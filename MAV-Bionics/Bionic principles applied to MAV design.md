@@ -6,9 +6,7 @@
 
 ## Introduction
 
-For this class, our team has been tasked to design a MAV (Micro Air Vehicle) following principles from the field of bionics. 
-
-It had to be autonomous hand able to perform air-to-water transitions.
+Over the last few years there has been a huge boom in the micro air vehicle (MAV) market, making them accessible for a wide range of people and purposes like surveillance, delivery of goods, photographing and many more. Our company has recognized the potential of MAVs and revolutionizes it by transforming a micro air vehicle to a micro amphibious vehicle.  
 
 
 
