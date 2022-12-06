@@ -63,11 +63,40 @@ When looking at how to integrate/use natural engineering solution, we identified
 ## Discovering
 
 The discovering phase is all about understanding the technical solutions that the natural world has to offer after millions of years of natural evolution.
+The objective was to find applicable biological models or answers to the issues and functions that the MAV would have to overcome/perform. Therefore we took the terms of our scoping part and started searching for inspirations in nature. For some of the tasks found in scoping, we did a keyword search on asknature. Other parts we were able to take from experience. In the following section only the few choosen mechanisms which made it to the final prototype are listed.
+
+### Function Lense
+In this approach we were searching different sources for functionallities our problem has to fullfill. Therefore the questions/functions had to be **Biologized**.
+#### How would nature transition from air to water?
+One of the most important and critical functionalities that the MAV must master to perfection is the transition between air/flight and water/diving. 
+The difficulty here is surface tension, which increases at higher speeds, causing the water to feel like concrete. This has already been evolved over many years by various bird species. One of them are the **Peruvian boobies**. They fly ~30 meters above the water and dive into the water at a speed of about 97km/h. Not only can they go up to depths of 25 meters with diving, they are also able to pursue fish as deep as 90 meters. In order to break the water tension optimally, they fold their wings just before the impact and the structure of the beak helps them to do so(Figure 1).
+https://www.pnas.org/doi/10.1073/pnas.1608628113
+https://www.10000birds.com/well-adapted-for-a-plunge-diving-lifestyle.htm
+https://eartheclipse.com/animals/birds/water-diving-birds.html
 
 
-The objective was to find applicable biological models or answers to the issues and functions that the MAV would have to overcome/perform. 
+#### How would nature navigate under water? (sonar)
+Without navigation, the mav would be useless. the difficulty is to find a navigation underwater and have a fallback scenario.
+A well-known variation of this is the echosounder, which is used by various animals such as tenrec, bats or wales. This works by emitting very high-pitched sounds that bounce off objects and return to the animal. From the time of bounce and the incoming waves, you can tell the distance, direction, speed, density and even the size of an object.
+Because of the 
+https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2013/09/echolocation-sonar-.jpg?width=1200&enable=upscale
+https://www.discoverwildlife.com/animal-facts/what-is-echolocation/
+#### How would nature communicate under water and in the air?
+### Ecological Lens
+For the Ecological Lens 
 
-### Natural Model discovery
+#### Defense
+#### Hydrophobic
+### Operating Conditions
+Operating Conditions are very important for our MAV to consider. Lots of different areas of applications have to be considered, especially with the diverse topology of switzerland in mind.
+#### Resistance high temperature changes
+#### Structural Integrity
+
+
+### Naturalist Lens
+#### Buoyancy
+#### Swarm behaviour
+
 
 We approached this trough so called "*lenses*", which encapsulate abstract questions into itemizable bits.
 
