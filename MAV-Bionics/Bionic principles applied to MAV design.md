@@ -69,6 +69,8 @@ The objective was to find applicable biological models or answers to the issues 
 In this approach we were searching different sources for functionallities our problem has to fullfill. Therefore the questions/functions had to be **Biologized**.
 https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
 
+
+https://asknature.org/strategy/body-protected-from-diving-impact/
 #### How would nature transition from air to water?
 One of the most important and critical functionalities that the MAV must master to perfection is the transition between air/flight and water/diving. 
 The difficulty here is surface tension, which increases at higher speeds, causing the water to feel like concrete. This has already been evolved over many years by various bird species. One of them are the **Peruvian boobies**. They fly ~30 meters above the water and dive into the water at a speed of about 97km/h. Not only can they go up to depths of 25 meters with diving, they are also able to pursue fish as deep as 90 meters. In order to break the water tension optimally, they fold their wings just before the impact and the structure of the beak helps them to do so(Figure 1).
@@ -138,10 +140,14 @@ Another useful feature would be the collaboration between the different individu
 https://www.thoughtco.com/how-honey-bees-communicate-1968098
 https://asknature.org/strategy/collaborating-for-group-decisions/
 #### Defense
-
+//TODO: defense schreiben
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6646469/#:~:text=For%20self%2Ddefense%2C%20electric%20eels,nociceptors%20to%20deter%20their%20target.
+https://asknature.org/strategy/deployable-web-distracts-predators/
+https://www.birdwatchingdaily.com/news/science/secrets-of-the-worlds-poisonous-birds/
 
 #### Hydrophobicity
-
+//TODO fertig stellen
+https://asknature.org/strategy/surface-allows-self-cleaning/
 
 
 ### Abstracted Biological Strategies
