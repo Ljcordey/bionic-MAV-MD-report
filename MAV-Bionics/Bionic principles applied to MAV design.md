@@ -81,6 +81,8 @@ A well-known variation of this is the echosounder, which is used by various anim
 https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2013/09/echolocation-sonar-.jpg?width=1200&enable=upscale
 https://www.discoverwildlife.com/animal-facts/what-is-echolocation/
 #### How would nature communicate under water and in the air?
+Fortunately, or thanks to clever evolution, the echosounder is also used by animals to communicate. This works with the same principle as described above.
+https://blog.scienceandmediamuseum.org.uk/the-sophisticated-use-of-sound-in-the-animal-kingdom/
 ### Ecological Lens
 For the Ecological Lens 
 
