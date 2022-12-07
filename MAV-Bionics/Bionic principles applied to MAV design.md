@@ -6,9 +6,9 @@
 
 ## Introduction
 
-Over the last few years there has been a huge boom in the micro air vehicle (MAV) market, making them accessible for a wide range of people and purposes like surveillance, delivery of goods, photographing and many more. Our company has recognized the potential of MAVs and revolutionizes it by transforming a micro air vehicle to a micro amphibious vehicle.  
+Over the last few years there has been a huge boom in the micro air vehicle (MAV) market, making them accessible for a wide range of people and purposes like surveillance, delivery of goods, photographing and many more. Our company has recognized the potential of MAVs and revolutionizes it by transforming a micro air vehicle to a micro amphibious vehicle. (Aufgabenstellung als Quellenangabe)
 
-
+## Problem
 
 ## Scoping
 
@@ -78,7 +78,6 @@ https://eartheclipse.com/animals/birds/water-diving-birds.html
 #### How would nature navigate under water? (sonar)
 Without navigation, the mav would be useless. the difficulty is to find a navigation underwater and have a fallback scenario.
 A well-known variation of this is the echosounder, which is used by various animals such as tenrec, bats or wales. This works by emitting very high-pitched sounds that bounce off objects and return to the animal. From the time of bounce and the incoming waves, you can tell the distance, direction, speed, density and even the size of an object.
-Because of the 
 https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2013/09/echolocation-sonar-.jpg?width=1200&enable=upscale
 https://www.discoverwildlife.com/animal-facts/what-is-echolocation/
 #### How would nature communicate under water and in the air?
