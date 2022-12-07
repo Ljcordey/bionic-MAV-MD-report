@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Over the last few years there has been a huge boom in the micro air vehicle (MAV) market, making them accessible for a wide range of people and purposes like surveillance, delivery of goods, photographing and many more. Our company has recognized the potential of MAVs and revolutionizes it by transforming a micro air vehicle to a micro amphibious vehicle. (Aufgabenstellung als Quellenangabe)
+Over the last few years there has been a huge boom in the micro air vehicle (MAV) market, making them accessible for a wide range of people and purposes like surveillance, delivery of goods, photographing and many more. Our company has recognized the potential of MAVs and revolutionizes it by transforming a micro air vehicle to a micro autonomous amphibious air vehicle. Which means it has three times as many functions in a single system. //TODO: (Aufgabenstellung als Quellenangabe)
 
 ## Problem
 
@@ -118,10 +118,14 @@ https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-st
 https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-strong/
 
 ### Naturalist Lens
-
+After a functional analysis and the elaboration of operating conditions, the tables should be turned and nature should be used as an inspiration. For this purpose, sites such as asknature can be used to look for exciting ideas.
 https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
 #### Buoyancy
+To create neutral or positive buoyancy, fish use a simple but very solid strategy. They have a swim bladder, which is located in the body cavity. This bubble is filled with gas, which can give good buoyancy due to its low density.
+https://asknature.org/strategy/swim-bladder-helps-maintain-buoyancy/
+https://www.scientificamerican.com/article/floating-with-a-swim-bladder/
 #### Swarm behaviour
+
 #### Defense
 #### Hydrophobic
 
