@@ -67,6 +67,8 @@ The objective was to find applicable biological models or answers to the issues 
 
 ### Function Lense
 In this approach we were searching different sources for functionallities our problem has to fullfill. Therefore the questions/functions had to be **Biologized**.
+https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
+
 #### How would nature transition from air to water?
 One of the most important and critical functionalities that the MAV must master to perfection is the transition between air/flight and water/diving. 
 The difficulty here is surface tension, which increases at higher speeds, causing the water to feel like concrete. This has already been evolved over many years by various bird species. One of them are the **Peruvian boobies**. They fly ~30 meters above the water and dive into the water at a speed of about 97km/h. Not only can they go up to depths of 25 meters with diving, they are also able to pursue fish as deep as 90 meters. In order to break the water tension optimally, they fold their wings just before the impact and the structure of the beak helps them to do so(Figure 1).
@@ -76,27 +78,52 @@ https://eartheclipse.com/animals/birds/water-diving-birds.html
 
 
 #### How would nature navigate under water? (sonar)
-Without navigation, the mav would be useless. the difficulty is to find a navigation underwater and have a fallback scenario.
+//TODO: eine zweite navigation "Discovern"
+Without navigation, the MAV would be useless. the difficulty is to find a navigation underwater and have a fallback scenario.
 A well-known variation of this is the echosounder, which is used by various animals such as tenrec, bats or wales. This works by emitting very high-pitched sounds that bounce off objects and return to the animal. From the time of bounce and the incoming waves, you can tell the distance, direction, speed, density and even the size of an object.
 https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2013/09/echolocation-sonar-.jpg?width=1200&enable=upscale
 https://www.discoverwildlife.com/animal-facts/what-is-echolocation/
 #### How would nature communicate under water and in the air?
 Fortunately, or thanks to clever evolution, the echosounder is also used by animals to communicate. This works with the same principle as described above.
 https://blog.scienceandmediamuseum.org.uk/the-sophisticated-use-of-sound-in-the-animal-kingdom/
-### Ecological Lens
-For the Ecological Lens 
 
-#### Defense
-#### Hydrophobic
+
+#### How does nature move underwater and on land?
+//TODO: bewegungen notieren
+
 ### Operating Conditions
-Operating Conditions are very important for our MAV to consider. Lots of different areas of applications have to be considered, especially with the diverse topology of switzerland in mind.
-#### Resistance high temperature changes
-#### Structural Integrity
+Operating Conditions are very important for the MAV to consider. Lots of different areas of applications have to be considered, especially with the diverse topology of switzerland in mind.
+#### Resistance to high temperature changes
+A good insulator is very important so that the MAV can be used at all temperatures. Many animals but also plants have tricks that we can analyze to protect themselves from the temperature.
 
+
+A role model are animals with fur like the beaver. Fur always consists of two different types of hair. The longer ones are called guard hairs and form a protective cover for the underhairs, which are denser (1 guard hair protects on average 3 underhairs). The beaver and other aquatic mammals have scales on the outer layer of their underhair. This makes the hairs interlock with each other and prevents the penetration of cold water and traps air bubbles. Air bubbles form a good insulating layer.
+https://asknature.org/strategy/fur-keeps-heat-in-and-cold-water-out/
+
+
+Multicellular organisms such as the Pompeii worm (Alvinella pompejana) are also specialized in adapting to extreme temperature fluctuations. Measurements showed that they can survive despite a difference of 60°C in two parts of the body. It achieves this by building protective tubes that create a mosaic of microenvironments with which he can determine the thermal and chemical gradients.
+https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/adaptations-to-environmental-extremes-by-multicellular-organisms/788142428590F0D32F24F139CA20B9B4
+https://asknature.org/strategy/worm-tolerates-temperature-gradient-of-140-deg-f/
+
+#### Structural integrity
+Good structural integrity has always been proven to bring with it a certain degree of isolation. Nevertheless, it is important that durability is considered as a specific criterion, as the MAV should be able to withstand water pressure, water impact and possible collision. Nature is once again a wonderful source of inspiration for structural integrity with many completely different techniques to meet the criteria.
+
+By hammering the tree, the woodpecker must stop forces to prevent brain injury. This is achieved by the unique structure of its skull. The skull bone has a layered, plate-like structure that resembles a sponge. They function as shock absorbers, deflecting the forces of impact in different directions. 
+https://asknature.org/strategy/spongey-cranium-absorbs-impact/
+
+
+Diatoms have another unique strategy to ensure stability. They create a shell of silicona. Through a characteristic structure such as circular or star-shaped and a pore pattern, they manage to create a particularly good structural integrity. Not only diatoms. Not only diatoms but also the Venus' flower basket sea sponge uses a unique structure for itself. Like the diatoms, the sea sponge is also made of silica ( in fact, glass). 
+A layering of 50 to 200nm small silica spheres and organic compounds can prevent the propagation of cracks. The relatively stiff inorganic spheres and the energy-absorbing organic compounds are arranged in a square lattice that is rolled up into a tube. This is the main form of the glass sponge and is so tough that even the shrimp living in its woven glass basket cannot break out.
+https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-strong/
+https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-strong/
 
 ### Naturalist Lens
+
+https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
 #### Buoyancy
 #### Swarm behaviour
+#### Defense
+#### Hydrophobic
 
 ### Abstracted Biological Strategies
 
