@@ -79,6 +79,8 @@ https://eartheclipse.com/animals/birds/water-diving-birds.html
 
 #### How would nature navigate under water? (sonar)
 //TODO: eine zweite navigation "Discovern"
+
+
 Without navigation, the MAV would be useless. the difficulty is to find a navigation underwater and have a fallback scenario.
 A well-known variation of this is the echosounder, which is used by various animals such as tenrec, bats or wales. This works by emitting very high-pitched sounds that bounce off objects and return to the animal. From the time of bounce and the incoming waves, you can tell the distance, direction, speed, density and even the size of an object.
 https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2013/09/echolocation-sonar-.jpg?width=1200&enable=upscale
@@ -124,10 +126,23 @@ https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimi
 To create neutral or positive buoyancy, fish use a simple but very solid strategy. They have a swim bladder, which is located in the body cavity. This bubble is filled with gas, which can give good buoyancy due to its low density.
 https://asknature.org/strategy/swim-bladder-helps-maintain-buoyancy/
 https://www.scientificamerican.com/article/floating-with-a-swim-bladder/
+https://www.britannica.com/science/swim-bladder
 #### Swarm behaviour
+In order for several MA[^3]V to work together on a mission, they must be able to act in a "swarm".
 
+
+One feature that would be beneficial in a swarm is collision detection. Locusts migrate in a huge swarm without colliding. Like humans, their movements are converted into electrical signals by the eye and finally read by the brain. the exciting thing is that locusts only detect those movements that interfere with their flight path. this happens because the electrical signal increases when an object moves directly towards them. this signal is then filtered according to strength so that only those objects which are on a direct flight path are detected.
+
+
+Another useful feature would be the collaboration between the different individuals of the swarm. Honey bees can share their knowledge through two different channels. On the one hand, they communicate through movement by performing a so-called "waggle dance", which indicates to other bees where, for example, the food source is. On the other hand, they can communicate through pheromones. When a worker bee stings, it produces pheromones that alerts the other bees of danger.
+https://www.thoughtco.com/how-honey-bees-communicate-1968098
+https://asknature.org/strategy/collaborating-for-group-decisions/
 #### Defense
-#### Hydrophobic
+
+
+#### Hydrophobicity
+
+
 
 ### Abstracted Biological Strategies
 
