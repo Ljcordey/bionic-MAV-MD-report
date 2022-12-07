@@ -98,30 +98,6 @@ Operating Conditions are very important for our MAV to consider. Lots of differe
 #### Buoyancy
 #### Swarm behaviour
 
-
-We approached this trough so called "*lenses*", which encapsulate abstract questions into itemizable bits.
-
-so far, we looked through the following lenses:
-
-- **Function Lense**
-  How would nature communicate under water / in the air?
-
-  How would nature transition from air to water?
-
-  How would nature navigate under water?
-
-- **Ecological Lens**
-  water, air, animals
-
-- **Operating Conditions**
-  freezing water, high altitude changes
-
-- **Naturalist Lens**
-
-
-
-
-
 ### Abstracted Biological Strategies
 
 Looking for interesting biological solutions to our problems, we identified the following:
