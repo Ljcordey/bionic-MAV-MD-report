@@ -93,6 +93,7 @@ https://blog.scienceandmediamuseum.org.uk/the-sophisticated-use-of-sound-in-the-
 
 
 #### How does nature move underwater and on land?
+Wings and flagella
 //TODO: bewegungen notieren
 
 ### Operating Conditions
