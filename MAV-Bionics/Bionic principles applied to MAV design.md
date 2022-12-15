@@ -92,9 +92,16 @@ Fortunately, or thanks to clever evolution, the echosounder is also used by anim
 https://blog.scienceandmediamuseum.org.uk/the-sophisticated-use-of-sound-in-the-animal-kingdom/
 
 
-#### How does nature move underwater and on land?
-Wings and flagella
-//TODO: bewegungen notieren
+#### How does nature move underwater and in the air?
+MAV's have long mastered the concept of flying. That's why we asked how nature **moves** in the air to find more efficient or suitable approaches.
+
+Spiders can be found multiple kilometers in the air and over a thousand kilometers out to sea. Spiders can detect electronically charged atmospheres. Taking their senses and environment for advantage they crawl on a negatively charged edge from where they shoot out a couple strands of silk. The strands pick up the negative charges of the edge surface and repel from the like charged surface, which let's them travel through air.
+https://asknature.org/strategy/spiders-surf-on-electric-fields/
+
+Because our mav is breaking into the water at speed, the focus on moving underwater was to change directions and move short distances.
+
+//TODO flagella
+
 
 ### Operating Conditions
 Operating Conditions are very important for the MAV to consider. Lots of different areas of applications have to be considered, especially with the diverse topology of switzerland in mind.
