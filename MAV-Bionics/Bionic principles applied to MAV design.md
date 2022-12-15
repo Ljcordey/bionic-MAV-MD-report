@@ -81,6 +81,7 @@ https://eartheclipse.com/animals/birds/water-diving-birds.html
 
 #### How would nature navigate under water? (sonar)
 //TODO: eine zweite navigation "Discovern"
+https://asknature.org/strategy/spiders-surf-on-electric-fields/
 
 
 Without navigation, the MAV would be useless. the difficulty is to find a navigation underwater and have a fallback scenario.
