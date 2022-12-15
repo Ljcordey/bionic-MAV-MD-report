@@ -150,6 +150,36 @@ https://www.birdwatchingdaily.com/news/science/secrets-of-the-worlds-poisonous-b
 //TODO fertig stellen
 https://asknature.org/strategy/surface-allows-self-cleaning/
 
+## Idea Creation
+
+## Evaluation
+
+## Prototype
+### Concept
+## Extension Possibilities
+## Cradle to Cradle
+## Discussion
+## Conclusion
+## References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Abstracted Biological Strategies
 
