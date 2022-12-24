@@ -70,14 +70,18 @@ The discovering phase is all about understanding the technical solutions that th
 The objective was to find applicable biological models or answers to the issues and functions that the MAV would have to overcome/perform. Therefore we took the terms of our scoping part and started searching for inspirations in nature. For some of the tasks found in scoping, we did a keyword search on asknature. Other parts we were able to take from experience. In the following section only the few choosen mechanisms which made it to the final prototype are listed.
 
 ### Function Lense
-In this approach we were searching different sources for functionallities our problem has to fullfill. Therefore the questions/functions had to be **Biologized**.
-https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
+In this approach we were searching different sources for functionallities our problem has to fullfill. Therefore the questions/functions had to be **Biologized**. [^1]
+
+[^1]: https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
 
 
 https://asknature.org/strategy/body-protected-from-diving-impact/
 #### How would nature transition from air to water?
 One of the most important and critical functionalities that the MAV must master to perfection is the transition between air/flight and water/diving. 
-The difficulty here is surface tension, which increases at higher speeds, causing the water to feel like concrete. This has already been evolved over many years by various bird species. One of them are the **Peruvian boobies**. They fly ~30 meters above the water and dive into the water at a speed of about 97km/h. Not only can they go up to depths of 25 meters with diving, they are also able to pursue fish as deep as 90 meters. In order to break the water tension optimally, they fold their wings just before the impact and the structure of the beak helps them to do so(Figure 1).
+The difficulty here is surface tension, which increases at higher speeds, causing the water to feel like concrete. This has already been evolved over many years by various bird species. One of them are the **Kingfisher**. They fly ~30 meters above the water and dive into the water at a speed of about 97km/h. Not only can they go up to depths of 25 meters with diving, they are also able to pursue fish as deep as 90 meters. In order to break the water tension optimally, they fold their wings just before the impact and the structure of the beak helps them to do so (Figure 1).
+
+![Kingfisher](https://www.earthtouchnews.com/media/1515869/kingfisher1_2015_10_23.jpg)
+
 https://www.pnas.org/doi/10.1073/pnas.1608628113
 https://www.10000birds.com/well-adapted-for-a-plunge-diving-lifestyle.htm
 https://eartheclipse.com/animals/birds/water-diving-birds.html
@@ -87,11 +91,14 @@ https://eartheclipse.com/animals/birds/water-diving-birds.html
 //TODO: eine zweite navigation "Discovern"
 https://asknature.org/strategy/spiders-surf-on-electric-fields/
 
-
 Without navigation, the MAV would be useless. the difficulty is to find a navigation underwater and have a fallback scenario.
-A well-known variation of this is the echosounder, which is used by various animals such as tenrec, bats or wales. This works by emitting very high-pitched sounds that bounce off objects and return to the animal. From the time of bounce and the incoming waves, you can tell the distance, direction, speed, density and even the size of an object.
+A well-known variation of this is the echosounder, which is used by various animals such as tenrec, bats or wales. This works by emitting very high-pitched sounds that bounce off objects and return to the animal. From the time of bounce and the incoming waves, you can tell the distance, direction, speed, density and even the size of an object. [^4]
+
+[^4]: https://www.discoverwildlife.com/animal-facts/what-is-echolocation/
+
+![Bat Echolocation](https://www.peec.org/PEEC_Bats/Start_files/droppedImage.png)![img](https://www.nwtexhibits.ca/beluga/images/sketch-echolocation.jpg)
 https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2013/09/echolocation-sonar-.jpg?width=1200&enable=upscale
-https://www.discoverwildlife.com/animal-facts/what-is-echolocation/
+
 #### How would nature communicate under water and in the air?
 Fortunately, or thanks to clever evolution, the echosounder is also used by animals to communicate. This works with the same principle as described above.
 https://blog.scienceandmediamuseum.org.uk/the-sophisticated-use-of-sound-in-the-animal-kingdom/
@@ -100,8 +107,8 @@ https://blog.scienceandmediamuseum.org.uk/the-sophisticated-use-of-sound-in-the-
 #### How does nature move underwater and in the air?
 MAV's have long mastered the concept of flying. That's why we asked how nature **moves** in the air to find more efficient or suitable approaches.
 
-Spiders can be found multiple kilometers in the air and over a thousand kilometers out to sea. Spiders can detect electronically charged atmospheres. Taking their senses and environment for advantage they crawl on a negatively charged edge from where they shoot out a couple strands of silk. The strands pick up the negative charges of the edge surface and repel from the like charged surface, which let's them travel through air.
-https://asknature.org/strategy/spiders-surf-on-electric-fields/
+Spiders can be found multiple kilometers in the air and over a thousand kilometers out to sea. Spiders can detect electronically charged atmospheres. Taking their senses and environment for advantage they crawl on a negatively charged edge from where they shoot out a couple strands of silk. The strands pick up the negative charges of the edge surface and repel from the like charged surface, which let's them travel through air. [^6]
+[^6]: https://asknature.org/strategy/spiders-surf-on-electric-fields/
 
 Because our mav is breaking into the water at speed, the focus on moving underwater was to change directions and move short distances.
 
@@ -113,45 +120,48 @@ Operating Conditions are very important for the MAV to consider. Lots of differe
 #### Resistance to high temperature changes
 A good insulator is very important so that the MAV can be used at all temperatures. Many animals but also plants have tricks that we can analyze to protect themselves from the temperature.
 
+A role model are animals with fur like the beaver. Fur always consists of two different types of hair. The longer ones are called guard hairs and form a protective cover for the underhairs, which are denser (1 guard hair protects on average 3 underhairs). The beaver and other aquatic mammals have scales on the outer layer of their underhair. This makes the hairs interlock with each other and prevents the penetration of cold water and traps air bubbles. Air bubbles form a good insulating layer. [^8]
+[^8]: https://asknature.org/strategy/fur-keeps-heat-in-and-cold-water-out/
 
-A role model are animals with fur like the beaver. Fur always consists of two different types of hair. The longer ones are called guard hairs and form a protective cover for the underhairs, which are denser (1 guard hair protects on average 3 underhairs). The beaver and other aquatic mammals have scales on the outer layer of their underhair. This makes the hairs interlock with each other and prevents the penetration of cold water and traps air bubbles. Air bubbles form a good insulating layer.
-https://asknature.org/strategy/fur-keeps-heat-in-and-cold-water-out/
-
-
-Multicellular organisms such as the Pompeii worm (Alvinella pompejana) are also specialized in adapting to extreme temperature fluctuations. Measurements showed that they can survive despite a difference of 60°C in two parts of the body. It achieves this by building protective tubes that create a mosaic of microenvironments with which he can determine the thermal and chemical gradients.
-https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/adaptations-to-environmental-extremes-by-multicellular-organisms/788142428590F0D32F24F139CA20B9B4
-https://asknature.org/strategy/worm-tolerates-temperature-gradient-of-140-deg-f/
+Multicellular organisms such as the Pompeii worm (Alvinella pompejana) are also specialized in adapting to extreme temperature fluctuations. Measurements showed that they can survive despite a difference of 60°C in two parts of the body. It achieves this by building protective tubes that create a mosaic of microenvironments with which he can determine the thermal and chemical gradients. [^9][^10]
+[^9]: https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/adaptations-to-environmental-extremes-by-multicellular-organisms/788142428590F0D32F24F139CA20B9B4
+[^10]: https://asknature.org/strategy/worm-tolerates-temperature-gradient-of-140-deg-f/
 
 #### Structural integrity
 Good structural integrity has always been proven to bring with it a certain degree of isolation. Nevertheless, it is important that durability is considered as a specific criterion, as the MAV should be able to withstand water pressure, water impact and possible collision. Nature is once again a wonderful source of inspiration for structural integrity with many completely different techniques to meet the criteria.
 
-By hammering the tree, the woodpecker must stop forces to prevent brain injury. This is achieved by the unique structure of its skull. The skull bone has a layered, plate-like structure that resembles a sponge. They function as shock absorbers, deflecting the forces of impact in different directions. 
-https://asknature.org/strategy/spongey-cranium-absorbs-impact/
-
+By hammering the tree, the woodpecker must stop forces to prevent brain injury. This is achieved by the unique structure of its skull. The skull bone has a layered, plate-like structure that resembles a sponge. They function as shock absorbers, deflecting the forces of impact in different directions.  [^11]
+[^11]: https://asknature.org/strategy/spongey-cranium-absorbs-impact/
 
 Diatoms have another unique strategy to ensure stability. They create a shell of silicona. Through a characteristic structure such as circular or star-shaped and a pore pattern, they manage to create a particularly good structural integrity. Not only diatoms. Not only diatoms but also the Venus' flower basket sea sponge uses a unique structure for itself. Like the diatoms, the sea sponge is also made of silica ( in fact, glass). 
-A layering of 50 to 200nm small silica spheres and organic compounds can prevent the propagation of cracks. The relatively stiff inorganic spheres and the energy-absorbing organic compounds are arranged in a square lattice that is rolled up into a tube. This is the main form of the glass sponge and is so tough that even the shrimp living in its woven glass basket cannot break out.
-https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-strong/
-https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-strong/
+A layering of 50 to 200nm small silica spheres and organic compounds can prevent the propagation of cracks. The relatively stiff inorganic spheres and the energy-absorbing organic compounds are arranged in a square lattice that is rolled up into a tube. This is the main form of the glass sponge and is so tough that even the shrimp living in its woven glass basket cannot break out. [^12][^13]
+
+[^12]: https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-strong/
+[^13]: https://asknature.org/strategy/glass-skeleton-is-tough-yet-flexible/
+
+![img](https://asknature.wpenginepowered.com/wp-content/uploads/2016/04/Euplectella_aspergillum_Okeanos-720x405.jpg)
 
 ### Naturalist Lens
-After a functional analysis and the elaboration of operating conditions, the tables should be turned and nature should be used as an inspiration. For this purpose, sites such as asknature can be used to look for exciting ideas.
-https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
+After a functional analysis and the elaboration of operating conditions, the tables should be turned and nature should be used as an inspiration. For this purpose, sites such as asknature can be used to look for exciting ideas.[^14]
+[^14]: https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
+
 #### Buoyancy
-To create neutral or positive buoyancy, fish use a simple but very solid strategy. They have a swim bladder, which is located in the body cavity. This bubble is filled with gas, which can give good buoyancy due to its low density.
-https://asknature.org/strategy/swim-bladder-helps-maintain-buoyancy/
-https://www.scientificamerican.com/article/floating-with-a-swim-bladder/
-https://www.britannica.com/science/swim-bladder
+To create neutral or positive buoyancy, fish use a simple but very solid strategy. They have a swim bladder, which is located in the body cavity. This bubble is filled with gas, which can give good buoyancy due to its low density. [^15][^16][^17]
+[^15]: https://asknature.org/strategy/swim-bladder-helps-maintain-buoyancy/
+[^16]: https://www.scientificamerican.com/article/floating-with-a-swim-bladder/
+[^17]: https://www.britannica.com/science/swim-bladder
+
 #### Swarm behaviour
 In order for several MA[^3]V to work together on a mission, they must be able to act in a "swarm".
 
+One feature that would be beneficial in a swarm is collision detection. Locusts migrate in a huge swarm without colliding. Like humans, their movements are converted into electrical signals by the eye and finally read by the brain. the exciting thing is that locusts only detect those movements that interfere with their flight path. this happens because the electrical signal increases when an object moves directly towards them. this signal is then filtered according to strength so that only those objects which are on a direct flight path are detected. [^18]<img src="https://media.nature.com/lw767/magazine-assets/nindia.2020.129/nindia.2020.129_19310606.jpg" alt="Locust vision could help self-driving cars, drones avoid collisions" style="zoom:33%;" />
 
-One feature that would be beneficial in a swarm is collision detection. Locusts migrate in a huge swarm without colliding. Like humans, their movements are converted into electrical signals by the eye and finally read by the brain. the exciting thing is that locusts only detect those movements that interfere with their flight path. this happens because the electrical signal increases when an object moves directly towards them. this signal is then filtered according to strength so that only those objects which are on a direct flight path are detected.
+[^18]: https://asknature.org/strategy/collision-detection-in-a-swarm/
 
+Another useful feature would be the collaboration between the different individuals of the swarm. Honey bees can share their knowledge through two different channels. On the one hand, they communicate through movement by performing a so-called "waggle dance", which indicates to other bees where, for example, the food source is. On the other hand, they can communicate through pheromones. When a worker bee stings, it produces pheromones that alerts the other bees of danger. [^19][^20]![Swarming (honey bee) - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bee_Swarm.JPG/220px-Bee_Swarm.JPG)]
+[^19]: https://www.thoughtco.com/how-honey-bees-communicate-1968098
+[^20]: https://asknature.org/strategy/collaborating-for-group-decisions/
 
-Another useful feature would be the collaboration between the different individuals of the swarm. Honey bees can share their knowledge through two different channels. On the one hand, they communicate through movement by performing a so-called "waggle dance", which indicates to other bees where, for example, the food source is. On the other hand, they can communicate through pheromones. When a worker bee stings, it produces pheromones that alerts the other bees of danger.
-https://www.thoughtco.com/how-honey-bees-communicate-1968098
-https://asknature.org/strategy/collaborating-for-group-decisions/
 #### Defense
 //TODO: defense schreiben
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6646469/#:~:text=For%20self%2Ddefense%2C%20electric%20eels,nociceptors%20to%20deter%20their%20target.
