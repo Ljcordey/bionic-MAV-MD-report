@@ -175,6 +175,15 @@ Inspired by whales and bats, ultrasound is also used to communicate and transfer
 6. The drone's frame is modeled like marine organisms like Sponges and Diatomea. Topological optimization, a novel technique, guarantees a lightweight but sturdy construction with insulation capabilities that shield delicate gear from impacts.
 7. Similar to the Anacondas in the Amazonian Basin or certain microorganisms with their flagellum, while underwater the drone should be propelled by its tail.
 Thus it can push itself and travel in 3D underwater space when agitated.
+8. To control the buoyancy, a bladder similar to the fish should be used. This bladder should be filled with gas and be controllable to stabilize the drone in the water.
+
+Of course, many exciting technologies did not qualify for the final prototype. 
+* Surfing on electric fields" was not feasible as a means of transport because the weight of the MAV is too great.
+* Although the Pompeii worm is insanely resistant to temperature differences, its protective tube building strategy did not translate well into a micro air vehicle.
+* Fur as insulation has long been discussed as it can also be water repellent and hydrophobic. However, it was decided against, as a coating and a smooth surface is more practical and easier to produce.
+
+In the discussion, the possibility of moving forward under water for short distances was also often discussed, as the anwnendugsfall was only intended for a fast, deep dive. It was decided to incorporate a biomimic aspect for a controlled forward movement under water. Therefore, the discovery process had to be gone through again and the flagella was found.
+
 
 ## Evaluation
 
