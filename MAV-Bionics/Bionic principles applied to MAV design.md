@@ -189,7 +189,7 @@ In the discussion, the possibility of moving forward under water for short dista
 
 ## Prototype
 ### Concept
-## Extension Possibilities
+### Extension Possibilities
 ## Cradle to Cradle
 Innovation through biomimicry, applied lifes principles, and all other techniques are incomplete without attempting zero waste production and developing a cradle-to-cradle product.
 - The hull, propeller, and topologically optimized structure will be made from a 3D-printable biodegradable material, BiomeHTX.
