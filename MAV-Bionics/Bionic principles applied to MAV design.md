@@ -188,6 +188,42 @@ In the discussion, the possibility of moving forward under water for short dista
 
 
 ## Evaluation
+//TODO: Kapitel beschreibung fertig machen
+//TODO: insert image icons per life principle
+
+
+
+In this chapter, the selected functions are evaluated on the basis of the life's principle, which we set out to achieve in chapter XY. 
+
+### Evolve to Survive
+**Continually incorporate and embody information to ensure enduring performance.** //TODO: quoting style
+
+#### Replicate Strategies that work
+functioning micro air vehicles have already implemented many strategies. therefore, some components such as the propeller structure and RF communication will be adopted in the new design. In addition, various strategies from nature mentioned in the Idea Creation chapter are reused and adapted to the MAV context.
+
+### Be Resource (Material and Engergy) Efficient
+**Skillfully and conservatively take advantage of resources and opportunities** //TODO: quoting style
+
+#### Use Multi-functional Design
+Some multifunctional designs have been integrated. One of these is the flagella, which serves as a means of transport in water and as an antenna for RF signals in the air. Another such design is the echo sounder, which can be used not only for navigation but also for communication. A final and most exciting multifunctional design is the topologically optimized surface that combines maximum lightness, insulation and resistance.
+
+#### Recycle all Materials
+This topic is discussed in more detail in the chapter on Cradle to Cradle. From the beginning, however, care was taken to make all materials as recyclable as possible. As an example, a biodegradable plastic called BiomeHTX is used. To give the non-recyclable components a new life in other applications was another very important aim.
+
+#### Fit form to function
+The shape of the prototype was worked out as minimalistic as possible and as efficient as possible, so that the MAV can fulfill all functional criteria as lean as possible.
+
+### Adapt to changing conditions
+**Appropriately respond to dynamic contexts.** //TODO: quoting style
+
+#### Incorporate Diversity
+For some key components, such as navigation and communication, a strong focus was placed on diversification. For navigation, cameras and echolot were used to take into account failures, changing visibility qualities and partly unpredictable environments. Communication does not work in the same way in the water as it does on the surface, so two different technologies (RF and echolot) are used.
+
+### Use Life-friendly Chemistry
+**Use chemistry that supports life processes.** //TODO: quoting style
+
+This life principle was the most difficult to fulfill, as the hydrophobic and non lethal toxic coating is a chemical product that needs to be inspected more closely. There are already several solutions, but whether they are safe in all the designated areas of application must be tested in more detail in a study to be absolutely sure.
+
 
 ## Prototype
 ### Concept
