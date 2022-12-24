@@ -244,7 +244,11 @@ Innovation through biomimicry, applied lifes principles, and all other technique
 - The components will be modular so that they can be replaced in the event of problems and fed into a new lifecycle.
 - The electronics will be supplied protected so that they can be recycled back into the technical cycle.
 ## Discussion
+Thanks to a cradle to cradle and biomimicry approach, the problem was approached in a completely different way and viewed from a completely new angle. this led to the functionalities being rethought from scratch and not only the question of what? but repeatedly also the question of why? was in focus.
+Starting with scoping, it was not yet clear how exactly the end product could look, and everything that could be relevant was simply questioned and described. In the process, for example, it emerged that the transition from the surface into the water plays a central role. In the discovering part, many exciting and new techniques appeared, which could (not always) be used, but even if they were not used, they have remained in the back of the mind for the next project (e.g. sending data like water strides).
+When it finally came to the prototype, a lot of preliminary work had been done and only the compatibility and technological requirements had to be checked. This was not always easy, but thanks to the good groundwork, a lot of time could be saved.
 ## Conclusion
+
 ## References
 
 
@@ -264,18 +268,6 @@ Innovation through biomimicry, applied lifes principles, and all other technique
 
 
 
-
-
-### Abstracted Biological Strategies
-
-Looking for interesting biological solutions to our problems, we identified the following:
-
-- *Water Strides* – Communication by vibration
-- *Brown Pelican* – Beak slices into surface at high speed
-- *Big Brown Bats* – Navigating via sonar
-- *Garden warbler* – Navigation via magnetic fields
-- *Spiders* – Flying with silk in negativly charged surface
-- *Goldenrod Gall Fly* – Internal antifreeze protein
 
 The following links are relevant:
 
