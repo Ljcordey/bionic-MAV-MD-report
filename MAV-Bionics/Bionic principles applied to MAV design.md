@@ -6,6 +6,8 @@
 
 ## Introduction
 
+The micro air vehicle (MAV) business has boomed in recent years, making them available to a wide range of persons and purposes such as surveillance, delivery of goods, mapping, and many more. Our business realized the potential of MAVs and intends to provide a multirole surveillance drone capable of effortlessly transitioning between air and water by exploiting bionic principles. 
+
 Over the last few years there has been a huge boom in the micro air vehicle (MAV) market, making them accessible for a wide range of people and purposes like surveillance, delivery of goods, photographing and many more. Our company has recognized the potential of MAVs and revolutionizes it by transforming a micro air vehicle to a micro autonomous amphibious air vehicle. Which means it has three times as many functions in a single system. //TODO: (Aufgabenstellung als Quellenangabe)
 
 ## Problem
@@ -159,6 +161,20 @@ https://www.birdwatchingdaily.com/news/science/secrets-of-the-worlds-poisonous-b
 https://asknature.org/strategy/surface-allows-self-cleaning/
 
 ## Idea Creation
+After the discovering phase, we were able to move on to the next phase with a lot of interesting strategies of nature. This chapter explains which ideas are combined into a prototype, how they interact and which biomimicry approaches could not be used.
+
+//TODO: Image of Prototype handdrawn
+
+
+1. To make transitoining from air to water as easy as possible, two different traits inspired by kingfisher will be adopted. On the one hand, attention will be paid to a slender hydrodinamic design, which helps to break into the water at high speed, and on the other hand, the wings and propellers will be collapsible to further optimise the hydrodynamics.
+2. For vision, we are integrating the bee's functions by incorporating compound vision cameras that can perceive as many aspects of the environment as possible. Not only the vision but also the swarm behaviour should work as well as the bees. This will be made possible with emergent behaviour AI, which mimics the behaviour of bees so that several MAVs can collaborate with each other.
+3. As a denfense mechanism, the prototype is to be coated with a non-lethal toxin so that enemies in the environment as well as human opponents can be kept at a distance.
+4. To navigate underwater and in poor conditions, echolocation technology is used for maximum performance in all conditions.
+Inspired by whales and bats, ultrasound is also used to communicate and transfer research data underwater.
+5. To create a hydrophobic effect, the surface of the fabric is coated with a water-repellent coating, which also increases bacterial resistance.
+6. The drone's frame is modeled like marine organisms like Sponges and Diatomea. Topological optimization, a novel technique, guarantees a lightweight but sturdy construction with insulation capabilities that shield delicate gear from impacts.
+7. Similar to the Anacondas in the Amazonian Basin or certain microorganisms with their flagellum, while underwater the drone should be propelled by its tail.
+Thus it can push itself and travel in 3D underwater space when agitated.
 
 ## Evaluation
 
@@ -166,6 +182,10 @@ https://asknature.org/strategy/surface-allows-self-cleaning/
 ### Concept
 ## Extension Possibilities
 ## Cradle to Cradle
+Innovation through biomimicry, applied lifes principles, and all other techniques are incomplete without attempting zero waste production and developing a cradle-to-cradle product.
+- The hull, propeller, and topologically optimized structure will be made from a 3D-printable biodegradable material, BiomeHTX.
+- The components will be modular so that they can be replaced in the event of problems and fed into a new lifecycle.
+- The electronics will be supplied protected so that they can be recycled back into the technical cycle.
 ## Discussion
 ## Conclusion
 ## References
