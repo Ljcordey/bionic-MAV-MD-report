@@ -1,3 +1,1 @@
-# bionic-MAV-MD-report
-This is the 2022 Bionics class report.
-It is done using Markdown.
+![Poster MA3V](POSTER-BIONICS-HQ.jpg)
