@@ -6,6 +6,8 @@
 
 ## Introduction
 
+//TODO: entscheiden zwischen den zwei texten
+
 The micro air vehicle (MAV) business has boomed in recent years, making them available to a wide range of persons and purposes such as surveillance, delivery of goods, mapping, and many more. Our business realized the potential of MAVs and intends to provide a multirole surveillance drone capable of effortlessly transitioning between air and water by exploiting bionic principles. 
 
 Over the last few years there has been a huge boom in the micro air vehicle (MAV) market, making them accessible for a wide range of people and purposes like surveillance, delivery of goods, photographing and many more. Our company has recognized the potential of MAVs and revolutionizes it by transforming a micro air vehicle to a micro autonomous amphibious air vehicle. Which means it has three times as many functions in a single system. //TODO: (Aufgabenstellung als Quellenangabe)
