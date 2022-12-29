@@ -11,6 +11,8 @@
 In recent years, the micro air vehicle (MAV) industry has flourished, making them accessible to a wide range of individuals and purposes, including surveillance, delivery of commodities, and mapping, among others.
 Utilizing bionic principles, our company intends to develop a multirole surveillance drone that can shift seamlessly between air and water.
 
+***which one of those two sentences ?***
+
 In recent years, the market for micro air vehicles (MAVs) has exploded, making them available for a variety of persons and purposes, including surveillance, delivery of goods, photography, and many more.
 Our organization has identified the potential of MAVs and is revolutionizing them by converting a micro air vehicle into a mini autonomous amphibious air vehicle.
 Therefore, it has three times as many functions as the previous system.  //TODO: (Aufgabenstellung als Quellenangabe)
@@ -105,7 +107,7 @@ https://www.10000birds.com/well-adapted-for-a-plunge-diving-lifestyle.htm
 https://eartheclipse.com/animals/birds/water-diving-birds.html
 
 
-#### How would nature navigate under water? (sonar)
+#### Underwater navigation
 //TODO: eine zweite navigation "Discovern"
 https://asknature.org/strategy/spiders-surf-on-electric-fields/
 
@@ -124,9 +126,9 @@ https://blog.scienceandmediamuseum.org.uk/the-sophisticated-use-of-sound-in-the-
 
 
 #### How does nature solve airborn and underwater motility?
-MAVs have long been experts at flying, which is why we looked to nature  and how it moves through the air to find more efficient and suitable  approaches.
+MAVs use traditional designs for flight that may not be as agile and versatile as required for our machine's functions and missions. This is why we looked for inspiration from the natural world and the ways it solves airborn motility for a more effective and appropriate solution.
 
- For example, certain spider species can be found flying several kilometers  in the air and traveling over a thousand kilometers out to sea.
+For example, certain spider species can be found flying several kilometers  in the air and traveling over a thousand kilometers out to sea.
 
  They can even detect electrically charged atmospheres and use their senses and  environment to their advantage. 
 
@@ -170,13 +172,20 @@ It accomplishes this by constructing protective tubes that generate a mosaic of 
 [^10]: https://asknature.org/strategy/worm-tolerates-temperature-gradient-of-140-deg-f/
 
 #### Structural integrity
-Good structural integrity has always been proven to bring with it a certain degree of isolation. Nevertheless, it is important that durability is considered as a specific criterion, as the MAV should be able to withstand water pressure, water impact and possible collision. Nature is once again a wonderful source of inspiration for structural integrity with many completely different techniques to meet the criteria.
+Structural design is crucial for ensuring the structural integrity of a system or structure.
 
-By hammering the tree, the woodpecker must stop forces to prevent brain injury. This is achieved by the unique structure of its skull. The skull bone has a layered, plate-like structure that resembles a sponge. They function as shock absorbers, deflecting the forces of impact in different directions.  [^11]
+As such, it is essential to consider durability as a distinct criterion, as the MAV must be able to tolerate water pressure, water impact, and the possibility of collision. Nature is once more a fantastic source of inspiration for structural integrity, with a wide variety of techniques available to meet the criteria.
+
+As an example of shock absorption, a woodpecker must absorb force while pecking at a tree to prevent brain harm. This is made possible by the anatomy of its cranium. The layered, plate-like structure of the skull bone resembles a sponge. They serve as shock absorbers by deflecting impact forces in various directions.  [^11]
+
 [^11]: https://asknature.org/strategy/spongey-cranium-absorbs-impact/
 
-Diatoms have another unique strategy to ensure stability. They create a shell of silicona. Through a characteristic structure such as circular or star-shaped and a pore pattern, they manage to create a particularly good structural integrity. Not only diatoms. Not only diatoms but also the Venus' flower basket sea sponge uses a unique structure for itself. Like the diatoms, the sea sponge is also made of silica ( in fact, glass). 
-A layering of 50 to 200nm small silica spheres and organic compounds can prevent the propagation of cracks. The relatively stiff inorganic spheres and the energy-absorbing organic compounds are arranged in a square lattice that is rolled up into a tube. This is the main form of the glass sponge and is so tough that even the shrimp living in its woven glass basket cannot break out. [^12][^13]
+Diatoms are another example of extraordinary biological engineering.
+These organisms have developed a distinctive strategy for preserving structural stability and rigidity while limiting the amount of energy and construction materials required to construct their outer silicona shell.
+
+They acquire a very high level of structural stability through a specific shape, such as circular or star-shaped, and a pore pattern. Besides diatoms The Venus' flower basket marine sponge features a distinctive structure in addition to diatoms. Sea sponges, like diatoms, are comprised of silica (glass).
+
+A coating of silica spheres between 50 and 200 nanometers in diameter and organic compounds can limit the spread of fractures. The relatively rigid inorganic spheres and the energy-absorbing organic compounds are arranged in a square lattice formed of tubes. This is the most prevalent sort of glass sponge, and it is so tough that the shrimp residing in its glass basket cannot escape. [^12][^13]
 
 [^12]: https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-strong/
 [^13]: https://asknature.org/strategy/glass-skeleton-is-tough-yet-flexible/
@@ -184,25 +193,34 @@ A layering of 50 to 200nm small silica spheres and organic compounds can prevent
 ![img](https://asknature.wpenginepowered.com/wp-content/uploads/2016/04/Euplectella_aspergillum_Okeanos-720x405.jpg)
 
 ### Naturalist Lens
-After a functional analysis and the elaboration of operating conditions, the tables should be turned and nature should be used as an inspiration. For this purpose, sites such as asknature can be used to look for exciting ideas.[^14]
+Turning the tables and drawing ideas from nature are the next logical step after conducting a functional analysis and determining the operational circumstances.
+Websites such as Asknature can be leveraged for this purpose in order to look for new and original ideas.[^14]
+
 [^14]: https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
 
 #### Buoyancy
-To create neutral or positive buoyancy, fish use a simple but very solid strategy. They have a swim bladder, which is located in the body cavity. This bubble is filled with gas, which can give good buoyancy due to its low density. [^15][^16][^17]
+To create neutral or positive buoyancy, fish use a simple but very solid strategy. They have a swim bladder, which is located in the body cavity. This bubble is filled with gas, which can provide buoyancy due to its lower density. [^15][^16][^17]
 [^15]: https://asknature.org/strategy/swim-bladder-helps-maintain-buoyancy/
 [^16]: https://www.scientificamerican.com/article/floating-with-a-swim-bladder/
 [^17]: https://www.britannica.com/science/swim-bladder
 
 #### Swarm behaviour
-In order for several MA[^3]V to work together on a mission, they must be able to act in a "swarm".
+Swarm behaviors can be useful for MAV systems because they allow  multiple drones to coordinate and work together to achieve a common  goal.
 
-One feature that would be beneficial in a swarm is collision detection. Locusts migrate in a huge swarm without colliding. Like humans, their movements are converted into electrical signals by the eye and finally read by the brain. the exciting thing is that locusts only detect those movements that interfere with their flight path. this happens because the electrical signal increases when an object moves directly towards them. this signal is then filtered according to strength so that only those objects which are on a direct flight path are detected. [^18]<img src="https://media.nature.com/lw767/magazine-assets/nindia.2020.129/nindia.2020.129_19310606.jpg" alt="Locust vision could help self-driving cars, drones avoid collisions" style="zoom:33%;" />
+Swarm behavior includes collision detection and avoidance of the separate "units" that comprise it. For example, locusts travel in a massive swarm without clashing. Their motions, like those of humans, are translated into electrical signals by the eye and then read by the brain. The fascinating part is that locusts only notice movements that disrupt their flight path. This occurs because when an object moves directly towards them, the electrical signal rises. This signal is then filtered based on its strength so that only objects on a direct flight path are recognized.[^18]
+
+<img src="https://media.nature.com/lw767/magazine-assets/nindia.2020.129/nindia.2020.129_19310606.jpg" alt="Locust vision could help self-driving cars, drones avoid collisions" style="zoom: 150%;" />
+
+
 
 [^18]: https://asknature.org/strategy/collision-detection-in-a-swarm/
 
-Another useful feature would be the collaboration between the different individuals of the swarm. Honey bees can share their knowledge through two different channels. On the one hand, they communicate through movement by performing a so-called "waggle dance", which indicates to other bees where, for example, the food source is. On the other hand, they can communicate through pheromones. When a worker bee stings, it produces pheromones that alerts the other bees of danger. [^19][^20]![Swarming (honey bee) - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bee_Swarm.JPG/220px-Bee_Swarm.JPG)]
+Collaboration among the many members of the swarm would be another useful aspect. Honey bees can communicate their expertise in two ways. On the one hand, they communicate through movement by performing a "waggle dance," which conveys to other bees, for example, the location of a food source. They can, however, communicate using pheromones. When a worker bee stings, pheromones are released, alerting other bees to the danger. [^19][^20]
+
+![Swarming (honey bee) - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bee_Swarm.JPG/220px-Bee_Swarm.JPG)
 [^19]: https://www.thoughtco.com/how-honey-bees-communicate-1968098
 [^20]: https://asknature.org/strategy/collaborating-for-group-decisions/
+
 
 #### Defense
 //TODO: defense schreiben
@@ -210,26 +228,27 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6646469/#:~:text=For%20self%2Ddefen
 https://asknature.org/strategy/deployable-web-distracts-predators/
 https://www.birdwatchingdaily.com/news/science/secrets-of-the-worlds-poisonous-birds/
 
-#### Hydrophobicity
-//TODO fertig stellen
+#### Hydrophobic coatings
+Hydrophobic coatings are advantageous because they prevent water from clinging to a surface, hence reducing drag, enhancing the performance of aquatic vehicles, and providing corrosion protection. These coatings can be placed intentionally to a surface, or they can arise naturally, as with lily pads. Lily pads feature a hydrophobic layer that repels water, allowing them to float on the surface of ponds and other bodies of water. This coating is created by the cells on the surface of the lily pad, which exude a layer of hydrophobic wax. The wax provides a barrier that keeps water from adhering to the pad, allowing it to float and travel through the water without difficulty. The natural occurrence of hydrophobic coatings in lily pads and other plants provides inspiration for the creation of artificial hydrophobic coatings for a variety of practical uses.
+
 https://asknature.org/strategy/surface-allows-self-cleaning/
 
-## Idea Creation
-After the discovering phase, we were able to move on to the next phase with a lot of interesting strategies of nature. This chapter explains which ideas are combined into a prototype, how they interact and which biomimicry approaches could not be used.
+## solution proposal
+After the phase of discovery, we were able to move on to the next step, which included numerous fascinating natural strategies. This chapter describes which concepts are merged to create a prototype, how they interact, and which biomimicry techniques cannot be applied.
 
-//TODO: Image of Prototype handdrawn
+![MAAAV](C:\Users\Loup\Documents\GitHub\bionic-MAV-MD-report\MAV-Bionics\MAAAV.png)
 
 
-1. To make transitoining from air to water as easy as possible, two different traits inspired by kingfisher will be adopted. On the one hand, attention will be paid to a slender hydrodinamic design, which helps to break into the water at high speed, and on the other hand, the wings and propellers will be collapsible to further optimise the hydrodynamics.
-2. For vision, we are integrating the bee's functions by incorporating compound vision cameras that can perceive as many aspects of the environment as possible. Not only the vision but also the swarm behaviour should work as well as the bees. This will be made possible with emergent behaviour AI, which mimics the behaviour of bees so that several MAVs can collaborate with each other.
-3. As a defense mechanism, the prototype is to be coated with a non-lethal toxin so that enemies in the environment as well as human opponents can be kept at a distance.
+1. To make transitoining from air to water as easy as possible, two different traits inspired by plunging birds will be adopted. On the one hand, attention will be paid to a slender hydrodinamic design, which helps to break into the water at high speed, and on the other hand, the wings and propellers will be collapsible to further optimise the hydrodynamics.
+2. For vision, we are integrating the bee's functions by incorporating compound vision cameras that can perceive as many aspects of the environment as possible. Not only the vision but also the swarm behaviour should work as well as the bees. This will be made possible by artificial intelligence with emergent behaviour, which replicates the behavior of bees so that multiple MAVs can work together. 
+3. As a defense mechanism, the prototype will be covered with a non-lethal toxin in order to keep enemies in the environment and human opponents at bay. 
 4. To navigate underwater and in poor conditions, echolocation technology is used for maximum performance in all conditions.
-Inspired by whales and bats, ultrasound is also used to communicate and transfer research data underwater.
-5. To create a hydrophobic effect, the surface of the fabric is coated with a water-repellent coating, which also increases bacterial resistance.
-6. The drone's frame is modeled like marine organisms like Sponges and Diatomea. Topological optimization, a novel technique, guarantees a lightweight but sturdy construction with insulation capabilities that shield delicate gear from impacts.
-7. Similar to the Anacondas in the Amazonian Basin or certain microorganisms with their flagellum, while underwater the drone should be propelled by its tail.
-Thus it can push itself and travel in 3D underwater space when agitated.
-8. To control the buoyancy, a bladder similar to the fish should be used. This bladder should be filled with gas and be controllable to stabilize the drone in the water.
+5. Inspired by whales and bats, ultrasound is also used to communicate and transfer research data underwater.
+6. To create a hydrophobic effect, the surface of the fabric is coated with a water-repellent coating, which also increases bacterial resistance.
+7. The drone's frame is modeled like marine organisms like Sponges and Diatomea. Topological optimization, a novel technique, guarantees a lightweight but sturdy construction with insulation capabilities that shield delicate gear from impacts.
+8. Similar to the Anacondas in the Amazonian Basin or certain microorganisms with their flagellum, while underwater the drone should be propelled by its tail.
+  Thus it can push itself and travel in 3D underwater space when agitated.
+9. To control the buoyancy, a bladder similar to the fish should be used. This bladder should be filled with gas and be controllable to stabilize the drone in the water.
 
 Of course, many exciting technologies did not qualify for the final prototype. 
 * Surfing on electric fields" was not feasible as a means of transport because the weight of the MAV is too great.
@@ -250,47 +269,59 @@ In this chapter, the selected functions are evaluated on the basis of the life's
 ### Evolve to Survive
 **Continually incorporate and embody information to ensure enduring performance.** //TODO: quoting style
 
-#### Replicate Strategies that work
+> use a ">" before a sentence to put it into quote mode.
+
+#### Replicated Strategies that work
 functioning micro air vehicles have already implemented many strategies. therefore, some components such as the propeller structure and RF communication will be adopted in the new design. In addition, various strategies from nature mentioned in the Idea Creation chapter are reused and adapted to the MAV context.
 
 ### Be Resource (Material and Engergy) Efficient
 **Skillfully and conservatively take advantage of resources and opportunities** //TODO: quoting style
 
 #### Use Multi-functional Design
-Some multifunctional designs have been integrated. One of these is the flagella, which serves as a means of transport in water and as an antenna for RF signals in the air. Another such design is the echo sounder, which can be used not only for navigation but also for communication. A final and most exciting multifunctional design is the topologically optimized surface that combines maximum lightness, insulation and resistance.
+Several designs with several functions have been merged. One of these is the flagella, which functions both a mode of transportation in water and an antenna for RF waves in the air. The echo sounder is a similar device that can be used not only for navigation but also for communication. The topologically optimized surface is the final and most fascinating multifunctional design element, since it combines optimal lightness, insulation, and resistance.
 
 #### Recycle all Materials
-This topic is discussed in more detail in the chapter on Cradle to Cradle. From the beginning, however, care was taken to make all materials as recyclable as possible. As an example, a biodegradable plastic called BiomeHTX is used. To give the non-recyclable components a new life in other applications was another very important aim.
+The use of recyclable materials, such as BiomeHTX, for 3D printing our  MAV structure is highly advantageous as it allows for the creation of a  modular design. This not only simplifies the manufacturing process, but  also aligns with our cradle to cradle design philosophy, which seeks to  minimize waste and maximize resource efficiency. Using recyclable  materials in the 3D printing process not only reduces our environmental  impact, but also allows us to create a more sustainable and resilient  product.
 
 #### Fit form to function
-The shape of the prototype was worked out as minimalistic as possible and as efficient as possible, so that the MAV can fulfill all functional criteria as lean as possible.
+The adaptation of form to function while utilizing biomimicry designs enables the development of a lean solution design that successfully satisfies the needs of the product or system. We can identify efficient and effective solutions that have a low environmental impact by researching and replicating natural designs. This minimalist approach reduces not only the quantity of resources needed to make the product, but also waste and environmental impact. By harmonizing form and function in this way, we may build sustainable and resilient designs that have a low environmental effect.
 
 ### Adapt to changing conditions
 **Appropriately respond to dynamic contexts.** //TODO: quoting style
 
-#### Incorporate Diversity
-For some key components, such as navigation and communication, a strong focus was placed on diversification. For navigation, cameras and echolot were used to take into account failures, changing visibility qualities and partly unpredictable environments. Communication does not work in the same way in the water as it does on the surface, so two different technologies (RF and echolot) are used.
+> use an ">" before a phrase you want to quote, to make it work like a quotation.
+
+#### Redundancy through diversity
+We placed a significant emphasis on variety in the creation of our system, especially for crucial components like navigation and communication. To account for probable failures, fluctuations in visibility, and the unexpected nature of particular settings, we used both cameras and echolocation for navigation. Furthermore, we used two separate communication technologies, RF and echolocation, because how it works in water differs greatly from how it works on land. We hoped to ensure the dependability and durability of these critical components by using this varied approach.
 
 ### Use Life-friendly Chemistry
 **Use chemistry that supports life processes.** //TODO: quoting style
 
 > use an ">" before a phrase you want to quote, to make it work like a quotation.
 
-This life principle was the most difficult to fulfill, as the hydrophobic and non lethal toxic coating is a chemical product that needs to be inspected more closely. There are already several solutions, but whether they are safe in all the designated areas of application must be tested in more detail in a study to be absolutely sure.
+The use of life-friendly chemistry was a hurdle because the hydrophobic and non-toxic coating we intended to utilize is a chemical product that needed extensive testing. While there are various potential answers, more research is needed to ensure their safety in all defined regions of application. To limit any harmful effects on living species, it is critical to adopt non-lethal and environmentally friendly chemistry. As a result, we must thoroughly evaluate and confirm the applicability of these options.
+
+**or**
+
+The adoption of life-friendly chemistry presented a challenge, since the hydrophobic and non-toxic coating we intended to utilize is a chemical product that necessitates in-depth analysis.
+While a number of viable solutions exist, additional research is required to ensure their safety in all authorized application regions.
+In order to limit harmful effects on living organisms, it is crucial to ensure the use of non-lethal and environmentally-friendly chemicals.
+Therefore, we must evaluate and confirm the suitability of these options. 
 
 
 ## Prototype
 ### Concept
 ### Extension Possibilities
 ## Cradle to Cradle
-Innovation through biomimicry, applied lifes principles, and all other techniques are incomplete without attempting zero waste production and developing a cradle-to-cradle product.
+Innovation through biomimicry, applied lifes principles, and all other methods is insufficient without achieving zero waste production and building a cradle-to-grave product.
 - The hull, propeller, and topologically optimized structure will be made from a 3D-printable biodegradable material, BiomeHTX.
 - The components will be modular so that they can be replaced in the event of problems and fed into a new lifecycle.
 - The electronics will be supplied protected so that they can be recycled back into the technical cycle.
 ## Discussion
-Thanks to a cradle to cradle and biomimicry approach, the problem was approached in a completely different way and viewed from a completely new angle. this led to the functionalities being rethought from scratch and not only the question of what? but repeatedly also the question of why? was in focus.
-Starting with scoping, it was not yet clear how exactly the end product could look, and everything that could be relevant was simply questioned and described. In the process, for example, it emerged that the transition from the surface into the water plays a central role. In the discovering part, many exciting and new techniques appeared, which could (not always) be used, but even if they were not used, they have remained in the back of the mind for the next project (e.g. sending data like water strides).
-When it finally came to the prototype, a lot of preliminary work had been done and only the compatibility and technological requirements had to be checked. This was not always easy, but thanks to the good groundwork, a lot of time could be saved.
+The problem was tackled in an entirely different way and viewed from a completely different aspect thanks to a cradle to cradle and biomimicry approach. This resulted in the functionality being rethought from the ground up, and not only the question of *what?* but also the question of *why?* was continuously in focus.
+Starting with scoping, it was unclear how the ultimate product might look, and everything that might be significant was simply questioned and documented. During the process, for example, it became clear that the transition from the surface into the water is crucial. Many intriguing and novel techniques came during the discovering phase, which could (but did not always) be used, but even if they were not used, they remained in the back of the mind for the next project (e.g. sending data like water strides).
+When it came to the prototype, a lot of preliminary work had been completed, and all that remained was to confirm compatibility and technological requirements. This was not always easy, but with proper planning, a lot of time could be saved.
+
 ## Conclusion
 
 ## References
