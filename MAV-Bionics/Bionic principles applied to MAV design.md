@@ -14,6 +14,12 @@ Over the last few years there has been a huge boom in the micro air vehicle (MAV
 
 ## Problem
 
+Bionic engineering principles are difficult to integrate in the construction of a micro air vehicle (MAV). In order to enhance the performance of technological systems, bionic engineering incorporates biological principles and materials. This can be a complex and subtle procedure, requiring an in-depth knowledge of both the biological systems being replicated and the technological requirements of the MAV.
+
+Multiple variables contribute to the difficulties of incorporating bionic engineering principles into the design of an MAV. The necessity to balance the opposing demands of performance, functionality, and durability is one of the key obstacles. Due of the fragility and environmental sensitivity of bionic materials and systems, it might be challenging to fit them into an MAV's tough and high-performance design. In addition, the integration of bionic systems into an MAV necessitates a high level of technical skill and complex production procedures, which can be time-consuming and costly.
+
+Implementing bionic engineering principles in the design of an MAV necessitates a cautious and nuanced approach, and it is a substantial task that calls for a combination of technical expertise, ingenuity, and resourcefulness.
+
 ## Scoping
 
 For the Scoping of the project we referred to the biomimicry modeling wheel (Fig.1). It allowed us to structure our scoping into three distinctive categories:
@@ -23,6 +29,7 @@ For the Scoping of the project we referred to the biomimicry modeling wheel (Fig
 - Life's principle integration
 
 <img src="C:\Users\Loup\Desktop\MAV-Bionics\Picture1.png" alt="Picture1" style="zoom:50%;" />
+
 
 ### Context definition
 
