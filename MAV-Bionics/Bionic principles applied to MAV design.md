@@ -8,13 +8,16 @@
 
 //TODO: entscheiden zwischen den zwei texten
 
-The micro air vehicle (MAV) business has boomed in recent years, making them available to a wide range of persons and purposes such as surveillance, delivery of goods, mapping, and many more. Our business realized the potential of MAVs and intends to provide a multirole surveillance drone capable of effortlessly transitioning between air and water by exploiting bionic principles. 
+In recent years, the micro air vehicle (MAV) industry has flourished, making them accessible to a wide range of individuals and purposes, including surveillance, delivery of commodities, and mapping, among others.
+Utilizing bionic principles, our company intends to develop a multirole surveillance drone that can shift seamlessly between air and water.
 
-Over the last few years there has been a huge boom in the micro air vehicle (MAV) market, making them accessible for a wide range of people and purposes like surveillance, delivery of goods, photographing and many more. Our company has recognized the potential of MAVs and revolutionizes it by transforming a micro air vehicle to a micro autonomous amphibious air vehicle. Which means it has three times as many functions in a single system. //TODO: (Aufgabenstellung als Quellenangabe)
+In recent years, the market for micro air vehicles (MAVs) has exploded, making them available for a variety of persons and purposes, including surveillance, delivery of goods, photography, and many more.
+Our organization has identified the potential of MAVs and is revolutionizing them by converting a micro air vehicle into a mini autonomous amphibious air vehicle.
+Therefore, it has three times as many functions as the previous system.  //TODO: (Aufgabenstellung als Quellenangabe)
 
 ## Problem
 
-Bionic engineering principles are difficult to integrate in the construction of a micro air vehicle (MAV). In order to enhance the performance of technological systems, bionic engineering incorporates biological principles and materials. This can be a complex and subtle procedure, requiring an in-depth knowledge of both the biological systems being replicated and the technological requirements of the MAV.
+Bionic engineering principles are difficult to integrate in the construction of a MAV. In order to enhance the performance of technological systems, bionic engineering incorporates biological principles and materials. This can be a complex and subtle procedure, requiring an in-depth knowledge of both the biological systems being replicated and the technological requirements of the MAV.
 
 Multiple variables contribute to the difficulties of incorporating bionic engineering principles into the design of an MAV. The necessity to balance the opposing demands of performance, functionality, and durability is one of the key obstacles. Due of the fragility and environmental sensitivity of bionic materials and systems, it might be challenging to fit them into an MAV's tough and high-performance design. In addition, the integration of bionic systems into an MAV necessitates a high level of technical skill and complex production procedures, which can be time-consuming and costly.
 
@@ -22,7 +25,7 @@ Implementing bionic engineering principles in the design of an MAV necessitates 
 
 ## Scoping
 
-For the Scoping of the project we referred to the biomimicry modeling wheel (Fig.1). It allowed us to structure our scoping into three distinctive categories:
+For the project's Scope Definition, we referred to the biomimicry modeling wheel (Fig.1). It enabled us to divide our scoping efforts into three main categories:
 
 - Context definition
 - Function identification
@@ -33,11 +36,9 @@ For the Scoping of the project we referred to the biomimicry modeling wheel (Fig
 
 ### Context definition
 
-We identified two main contextual areas for our project, and several sub-context, while also considering a transitional context.
+For the sake of our study, we determined two primary contextual domains, as well as various sub-contexts, and we also took into consideration a transitional context. 
 
-
-
-The following table summarizes our work in this regard.
+The table below highlights our efforts in this area. 
 
 
 
@@ -52,7 +53,7 @@ The following table summarizes our work in this regard.
 
 ### Function's identification
 
-To have a better grasp on what the MAV will have to be able to perform, it's functions had to be placed within their contexts (Fig.2).
+To have a better understanding of what the MAV will need to be able to do, its functions required to be contextualized (Fig.2). 
 
 
 
@@ -65,27 +66,37 @@ To have a better grasp on what the MAV will have to be able to perform, it's fun
 When looking at how to integrate/use natural engineering solution, we identified the following Life's principle that we wanted to integrate into the project:
 
 1. adapt to changing conditions
+
 2. Change between air and water
+
 3. Temperature change
+
 4. Altitude change
+
 5. be resource efficient
+
 6. Navigation for over and underwater
+
+<img src="C:\Users\Loup\Documents\GitHub\bionic-MAV-MD-report\MAV-Bionics\env-factors.png" alt="env-factors" style="zoom:33%;" />
 
 ## Discovering
 
-The discovering phase is all about understanding the technical solutions that the natural world has to offer after millions of years of natural evolution.
-The objective was to find applicable biological models or answers to the issues and functions that the MAV would have to overcome/perform. Therefore we took the terms of our scoping part and started searching for inspirations in nature. For some of the tasks found in scoping, we did a keyword search on asknature. Other parts we were able to take from experience. In the following section only the few choosen mechanisms which made it to the final prototype are listed.
+Understanding the technical answers that the natural world has to give after millions of years of natural evolution is the focus of the discovering phase.
+
+The goal was to identify relevant biological models or solutions for the challenges and functions that the MAV would have to overcome/perform. Therefore, using the terms of our scoping section, we began to seek inspiration in nature. We conducted a keyword search on [Asknature.org](https://asknature.org/) for some of the tasks identified during scoping. Other elements were derived from experience. In the section that follows, only the few mechanisms that made it into the final prototype are listed.
 
 ### Function Lense
-In this approach we were searching different sources for functionallities our problem has to fullfill. Therefore the questions/functions had to be **Biologized**. [^1]
+In this method, we searched multiple sources for the functionalities our challenge must satisfy.
+Consequently, the questions/functions were required to be **Biologized**. [^1]
 
 [^1]: https://moodle.zhaw.ch/pluginfile.php/477890/mod_resource/content/2/04%20Biomimicry%20-%20Discovering_11102022.pdf
 
 
 https://asknature.org/strategy/body-protected-from-diving-impact/
 #### How would nature transition from air to water?
-One of the most important and critical functionalities that the MAV must master to perfection is the transition between air/flight and water/diving. 
-The difficulty here is surface tension, which increases at higher speeds, causing the water to feel like concrete. This has already been evolved over many years by various bird species. One of them are the **Kingfisher**. They fly ~30 meters above the water and dive into the water at a speed of about 97km/h. Not only can they go up to depths of 25 meters with diving, they are also able to pursue fish as deep as 90 meters. In order to break the water tension optimally, they fold their wings just before the impact and the structure of the beak helps them to do so (Figure 1).
+The transition between air/flight and water/diving is one of the most vital and crucial capabilities that the MAV must master to perfection.
+
+The issue is surface tension, which increases with speed and causes the water to become solid like concrete. Various bird species have already developed this trait over many years. One of these species is the Kingfisher. They fly approximately 30 meters above the ocean and dive into it at a speed of 97 kilometers per hour. Not only can they dive to depths of up to 25 meters, but they can also hunt fish as deep as 90 meters. To break the water tension optimally, they fold their wings right before impact, and the anatomy of their beaks aids in this process. (Figure 1).
 
 ![Kingfisher](https://www.earthtouchnews.com/media/1515869/kingfisher1_2015_10_23.jpg)
 
@@ -98,39 +109,63 @@ https://eartheclipse.com/animals/birds/water-diving-birds.html
 //TODO: eine zweite navigation "Discovern"
 https://asknature.org/strategy/spiders-surf-on-electric-fields/
 
-Without navigation, the MAV would be useless. the difficulty is to find a navigation underwater and have a fallback scenario.
-A well-known variation of this is the echosounder, which is used by various animals such as tenrec, bats or wales. This works by emitting very high-pitched sounds that bounce off objects and return to the animal. From the time of bounce and the incoming waves, you can tell the distance, direction, speed, density and even the size of an object. [^4]
+Without navigation, the MAV is ineffective. The issue lies in finding an underwater navigation system and having a backup plan.
+
+Various creatures, such as the tenrec, bats, and whales, utilize a well-known variant of this called the echosounder. This method involves releasing extremely high-pitched noises that reflect off of things and return to the animal. You may determine the distance, direction, speed, density, and size of an object based on the duration of bounce and the incoming waves. [^4]
 
 [^4]: https://www.discoverwildlife.com/animal-facts/what-is-echolocation/
 
 ![Bat Echolocation](https://www.peec.org/PEEC_Bats/Start_files/droppedImage.png)![img](https://www.nwtexhibits.ca/beluga/images/sketch-echolocation.jpg)
 https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2013/09/echolocation-sonar-.jpg?width=1200&enable=upscale
 
-#### How would nature communicate under water and in the air?
-Fortunately, or thanks to clever evolution, the echosounder is also used by animals to communicate. This works with the same principle as described above.
+#### How would nature tackle underwater and airborn communication ?
+Fortunately, or thanks to intelligent evolution, animals also use ultrasound to communicate. The same approach applies here as mentioned previously.
 https://blog.scienceandmediamuseum.org.uk/the-sophisticated-use-of-sound-in-the-animal-kingdom/
 
 
-#### How does nature move underwater and in the air?
-MAV's have long mastered the concept of flying. That's why we asked how nature **moves** in the air to find more efficient or suitable approaches.
+#### How does nature solve airborn and underwater motility?
+MAVs have long been experts at flying, which is why we looked to nature  and how it moves through the air to find more efficient and suitable  approaches.
 
-Spiders can be found multiple kilometers in the air and over a thousand kilometers out to sea. Spiders can detect electronically charged atmospheres. Taking their senses and environment for advantage they crawl on a negatively charged edge from where they shoot out a couple strands of silk. The strands pick up the negative charges of the edge surface and repel from the like charged surface, which let's them travel through air. [^6]
+ For example, certain spider species can be found flying several kilometers  in the air and traveling over a thousand kilometers out to sea.
+
+ They can even detect electrically charged atmospheres and use their senses and  environment to their advantage. 
+
+To accomplish these feats, they crawl along a negatively charged edge and then shoot out strands of silk, which pick up the negative  charges of the surface and repel away from it, allowing them to fly  through the air. [^6]
+
 [^6]: https://asknature.org/strategy/spiders-surf-on-electric-fields/
 
-Because our mav is breaking into the water at speed, the focus on moving underwater was to change directions and move short distances.
+Due to the rapid entry of our UAV into the water, the underwater movement strategy emphasized direction changes and short distances. As such, we looked for underwater motility strategies in nature, and Flagella from certain bacteria and microorganisms came to our mind.
 
-//TODO flagella
+##### Flagella 
+
+Numerous microorganisms utilize flagella, which are long, whip-like appendages, to travel through water. They are made of proteins known as flagellins, which are spirally organized around a central core. At the base of the flagellum lies a molecular motor called the basal body that powers the flagellum. The rotation of the basal body causes the flagellum to oscillate, propelling the bacterium through the water. The microbe can control the movement's direction and velocity by regulating the rotation of its basal body. Flagella are an integral aspect of the biology and behavior of numerous aquatic bacteria, as they are particularly effective at propelling microbes through water. [^7]
+
+[^7]:https://en.wikipedia.org/wiki/Flagellum
 
 
 ### Operating Conditions
-Operating Conditions are very important for the MAV to consider. Lots of different areas of applications have to be considered, especially with the diverse topology of switzerland in mind.
-#### Resistance to high temperature changes
-A good insulator is very important so that the MAV can be used at all temperatures. Many animals but also plants have tricks that we can analyze to protect themselves from the temperature.
+The MAV must give careful consideration to the operating conditions at all times.
+It is necessary to take into account a wide variety of application domains, which is especially important when thinking about the varied topography of Switzerland. 
 
-A role model are animals with fur like the beaver. Fur always consists of two different types of hair. The longer ones are called guard hairs and form a protective cover for the underhairs, which are denser (1 guard hair protects on average 3 underhairs). The beaver and other aquatic mammals have scales on the outer layer of their underhair. This makes the hairs interlock with each other and prevents the penetration of cold water and traps air bubbles. Air bubbles form a good insulating layer. [^8]
+#### Resilience to big temperature variation 
+Variations in temperature can pose a serious threat to electronics. Large temperature swings can pose a number of issues for electronic components, including thermal expansion, which can put physical stress on the components, and changes in the electrical properties of materials, which can compromise the performance and dependability of the electronics. In addition, elevated temperatures can hasten the deterioration of materials and the aging of components, leading to their early failure. Extremely low temperatures, on the other hand, can lead to issues such as brittle failure, higher resistance, and decreased performance. In order to maintain the dependability and performance of electronic devices, it is necessary to safeguard them against significant temperature fluctuations.
+
+Therefore, proper thermal insulation is necessary for the normal operation of the MAV.  To address this issue, we can assess the tactics utilized by various animals and plants to withstand extreme temperatures. 
+
+A nice model is a furry animal, such as a beaver.
+
+ Animal fur always consists of two unique types of hair strand.
+The longer ones are called **guard hairs** and act as a protective covering for the **underhairs**, which are denser (one guard hair protects on average 3 underhairs).
+
+Beavers and other aquatic mammals have scales on the outermost layer of their underhair. This causes the hairs to intertwine, preventing cold water from penetrating and trapping air bubbles.
+Air bubbles effectively insulate a surface.  [^8]
+
 [^8]: https://asknature.org/strategy/fur-keeps-heat-in-and-cold-water-out/
 
-Multicellular organisms such as the Pompeii worm (Alvinella pompejana) are also specialized in adapting to extreme temperature fluctuations. Measurements showed that they can survive despite a difference of 60°C in two parts of the body. It achieves this by building protective tubes that create a mosaic of microenvironments with which he can determine the thermal and chemical gradients. [^9][^10]
+Extremophile multicellular creatures, such as the Pompeii worm (Alvinella pompejana), are similarly well adapted to great temperature changes.
+The measurements revealed that they can survive despite a 60°C differential between two bodily sections.
+It accomplishes this by constructing protective tubes that generate a mosaic of microenvironments from which the researcher may determine the thermal and chemical gradients.  [^9][^10]
+
 [^9]: https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/adaptations-to-environmental-extremes-by-multicellular-organisms/788142428590F0D32F24F139CA20B9B4
 [^10]: https://asknature.org/strategy/worm-tolerates-temperature-gradient-of-140-deg-f/
 
@@ -187,7 +222,7 @@ After the discovering phase, we were able to move on to the next phase with a lo
 
 1. To make transitoining from air to water as easy as possible, two different traits inspired by kingfisher will be adopted. On the one hand, attention will be paid to a slender hydrodinamic design, which helps to break into the water at high speed, and on the other hand, the wings and propellers will be collapsible to further optimise the hydrodynamics.
 2. For vision, we are integrating the bee's functions by incorporating compound vision cameras that can perceive as many aspects of the environment as possible. Not only the vision but also the swarm behaviour should work as well as the bees. This will be made possible with emergent behaviour AI, which mimics the behaviour of bees so that several MAVs can collaborate with each other.
-3. As a denfense mechanism, the prototype is to be coated with a non-lethal toxin so that enemies in the environment as well as human opponents can be kept at a distance.
+3. As a defense mechanism, the prototype is to be coated with a non-lethal toxin so that enemies in the environment as well as human opponents can be kept at a distance.
 4. To navigate underwater and in poor conditions, echolocation technology is used for maximum performance in all conditions.
 Inspired by whales and bats, ultrasound is also used to communicate and transfer research data underwater.
 5. To create a hydrophobic effect, the surface of the fabric is coated with a water-repellent coating, which also increases bacterial resistance.
@@ -238,6 +273,8 @@ For some key components, such as navigation and communication, a strong focus wa
 
 ### Use Life-friendly Chemistry
 **Use chemistry that supports life processes.** //TODO: quoting style
+
+> use an ">" before a phrase you want to quote, to make it work like a quotation.
 
 This life principle was the most difficult to fulfill, as the hydrophobic and non lethal toxic coating is a chemical product that needs to be inspected more closely. There are already several solutions, but whether they are safe in all the designated areas of application must be tested in more detail in a study to be absolutely sure.
 
