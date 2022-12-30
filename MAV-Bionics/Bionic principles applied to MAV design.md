@@ -17,6 +17,10 @@ In recent years, the market for micro air vehicles (MAVs) has exploded, making t
 Our organization has identified the potential of MAVs and is revolutionizing them by converting a micro air vehicle into a mini autonomous amphibious air vehicle.
 Therefore, it has three times as many functions as the previous system.  //TODO: (Aufgabenstellung als Quellenangabe)
 
+*** Vorschlag Stephan***
+Micro air vehicles are booming in the past decades. MAVs gained use in a wide range of purposes and are available for industrial, public and private use. Branches that profit of MAVs are surveillance, photographing, and delivery of goods. Fast developing markets are good indicators for potential. Therefore is developing a new innovation for this specific market connected with minor risk.
+In Collaboration with the Swiss army, the goal is to develop a Prototype MAV that can be deployed for both air as well as water missions. The conceptual phase of the prototyping follows biomimicry methods. Biomimicry methods are created for technical solutions which implement the advantages of natures evolution and adaptability.
+
 ## Problem
 
 Bionic engineering principles are difficult to integrate in the construction of a MAV. In order to enhance the performance of technological systems, bionic engineering incorporates biological principles and materials. This can be a complex and subtle procedure, requiring an in-depth knowledge of both the biological systems being replicated and the technological requirements of the MAV.
@@ -27,7 +31,7 @@ Implementing bionic engineering principles in the design of an MAV necessitates 
 
 ## Scoping
 
-For the project's Scope Definition, we referred to the biomimicry modeling wheel (Fig.1). It enabled us to divide our scoping efforts into three main categories:
+Scoping is used to clarify the Requirements. Main parts of scoping are defining the boundaries, challenge, context and constraints of the Project. The Scoping Process is applied to the project according to the biomimicry modelling wheel (Fig. 1). The model divides the scoping efforts into three main categories:
 
 - Context definition
 - Function identification
@@ -38,10 +42,12 @@ For the project's Scope Definition, we referred to the biomimicry modeling wheel
 
 ### Context definition
 
-For the sake of our study, we determined two primary contextual domains, as well as various sub-contexts, and we also took into consideration a transitional context. 
+Project boundaries define the space for development. Each work step has to full fill the projects requirements in the assigned boundaries. The Boundaries for the development of the MAV-prototype has been set around the product itself. All functions are focused on the MAV and the interaction with its surroundings. Communication with the pilot has to be implemented. The control unit for the pilot is not part of the project.
 
-The table below highlights our efforts in this area. 
-
+Developing a MAV-prototype according to the challenge requires the prototype to perform in air and water. These requirements lead to the context of the project. Separating the context into air, transition and water helps to focus on relevant influences.
+Movement in air exposes the MAV to weather, topology and hazards. Weather includes the influences of sunlight, Temperature, humidity, rain, wind, ice and snow. Hazardous objects can be animals, insects, moving objects, obstacles, abrasives and people. The topology of Switzerland is a combination of mountains, forests, glaciers, buildings or whole cities.
+Transitioning between the two main context fields challenges the MAV with change of fluid density, water surface tension and floating objects on water.
+During the movement in water, resist and adapt to water condition, topology and hazards is vital for the MAV to persist. Water condition is containing the properties of sweet water, current and waves. Topology includes the differentiation of lakes and rivers, depth, stones and water plants.
 
 
 | **AIR**                                                      | **TRANSITION**      | **WATER**                                                    |
@@ -52,12 +58,14 @@ The table below highlights our efforts in this area.
 |                                                              |                     |                                                              |
 
 
-
 ### Function's identification
 
-To have a better understanding of what the MAV will need to be able to do, its functions required to be contextualized (Fig.2). 
+Combining the three context modules helps to define the necessary functions for an MAV to fit the requirements of the challenge (Fig.2). 
 
-
+| **AIR**                              | **TRANSITION**                    | **WATER**                         |
+|--------------------------------------|-----------------------------------|-----------------------------------|
+| aerodynamical<br/> accelerate<br/> decelerate<br/> dustproof<br/> waterproof<br/> change direction<br/> | float<br/> repell water<br/> drying<br/> break watersurface<br/> take off<br/> land<br/> initiate dive<br/> surface tension<br/> | hydrodynamical<br/> waterresistant<br/> pressureresistent<br/> accelerate<br/> decelerate<br/> change direction<br/> |
+|--------------------------------------|-----------------------------------|-----------------------------------|
 
 ![Picture2](C:\Users\Loup\Desktop\MAV-Bionics\Picture2.png)
 
