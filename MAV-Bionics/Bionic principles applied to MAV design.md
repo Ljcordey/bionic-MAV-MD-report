@@ -65,7 +65,7 @@ Combining the three context modules helps to define the necessary functions for 
 | **AIR**                              | **TRANSITION**                    | **WATER**                         |
 |--------------------------------------|-----------------------------------|-----------------------------------|
 | aerodynamical<br/> accelerate<br/> decelerate<br/> dustproof<br/> waterproof<br/> change direction<br/> | float<br/> repell water<br/> drying<br/> break watersurface<br/> take off<br/> land<br/> initiate dive<br/> surface tension<br/> | hydrodynamical<br/> waterresistant<br/> pressureresistent<br/> accelerate<br/> decelerate<br/> change direction<br/> |
-|--------------------------------------|-----------------------------------|-----------------------------------|
+
 
 ![Picture2](C:\Users\Loup\Desktop\MAV-Bionics\Picture2.png)
 
