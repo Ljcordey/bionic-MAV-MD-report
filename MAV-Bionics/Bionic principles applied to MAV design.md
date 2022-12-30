@@ -321,10 +321,14 @@ Therefore, we must evaluate and confirm the suitability of these options.
 ### Concept
 ### Extension Possibilities
 ## Cradle to Cradle
-Innovation through biomimicry, applied lifes principles, and all other methods is insufficient without achieving zero waste production and building a cradle-to-grave product.
-- The hull, propeller, and topologically optimized structure will be made from a 3D-printable biodegradable material, BiomeHTX.
-- The components will be modular so that they can be replaced in the event of problems and fed into a new lifecycle.
-- The electronics will be supplied protected so that they can be recycled back into the technical cycle.
+Innovation through biomimicry, applied lifes principles, and all other methods is insufficient without achieving zero waste production and building a cradle-to-cradle product. To accomplish this, various ways were worked out so that the changse on zero wast can become as high as possible.
+
+1. The hull, propeller, and topologically optimized structure will be made from a 3D-printable biodegradable material, BiomeHTX. This is not only useful because lost parts are ecologically degradable but also efficient in the prototyping phase because 3D printing is simple and allows for easier iterations and testing.
+
+2. A modular design is intended to extend the service life of an MAV. This is achieved by simply replacing or upgrading old or damaged components. 
+3. The electronics, which are not biodegradable, are encapsulated centrally. This results in no harmful chemicals leaking into the environment and also makes it easier to extract the rare earths and electronics so that they can be given a new life cycle.
+
+
 ## Discussion
 The problem was tackled in an entirely different way and viewed from a completely different aspect thanks to a cradle to cradle and biomimicry approach. This resulted in the functionality being rethought from the ground up, and not only the question of *what?* but also the question of *why?* was continuously in focus.
 Starting with scoping, it was unclear how the ultimate product might look, and everything that might be significant was simply questioned and documented. During the process, for example, it became clear that the transition from the surface into the water is crucial. Many intriguing and novel techniques came during the discovering phase, which could (but did not always) be used, but even if they were not used, they remained in the back of the mind for the next project (e.g. sending data like water strides).
