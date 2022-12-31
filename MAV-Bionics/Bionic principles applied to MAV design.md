@@ -25,6 +25,8 @@ In Collaboration with the Swiss army, the goal is to develop a Prototype MAV tha
 
 Bionic engineering principles are difficult to integrate in the construction of a MAV. In order to enhance the performance of technological systems, bionic engineering incorporates biological principles and materials. This can be a complex and subtle procedure, requiring an in-depth knowledge of both the biological systems being replicated and the technological requirements of the MAV.
 
+MAVs would be able to function in a greater variety of situations if they could transition from water to air. MAVs with the ability to transition from water to air, for instance, might be utilized for search and rescue operations in places containing bodies of water, such as flood zones or coastal regions. Additionally, MAVs with this capability could be utilized for aquatic research and monitoring, including the study of marine life and water quality monitoring. Overall, the capacity to move from water to air would significantly increase the potential uses and applications of MAVs, making them even more important tools for a variety of sectors and organizations.
+
 Multiple variables contribute to the difficulties of incorporating bionic engineering principles into the design of an MAV. The necessity to balance the opposing demands of performance, functionality, and durability is one of the key obstacles. Due of the fragility and environmental sensitivity of bionic materials and systems, it might be challenging to fit them into an MAV's tough and high-performance design. In addition, the integration of bionic systems into an MAV necessitates a high level of technical skill and complex production procedures, which can be time-consuming and costly.
 
 Implementing bionic engineering principles in the design of an MAV necessitates a cautious and nuanced approach, and it is a substantial task that calls for a combination of technical expertise, ingenuity, and resourcefulness.
@@ -244,7 +246,19 @@ https://asknature.org/strategy/surface-allows-self-cleaning/
 ## solution proposal
 After the phase of discovery, we were able to move on to the next step, which included numerous fascinating natural strategies. This chapter describes which concepts are merged to create a prototype, how they interact, and which biomimicry techniques cannot be applied.
 
-![MAAAV](C:\Users\Loup\Documents\GitHub\bionic-MAV-MD-report\MAV-Bionics\MAAAV.png)
+#### The MA3V
+
+The MA3V (Micro Aero-Amphibious Autonomous Vehicle) is intended to be a flexible and efficient instrument for mapping, surveillance, reconnaissance, and rescue operations in a range of conditions. It is perfect for use in the field because to its simple design and low maintenance requirements, and it is extremely effective for a variety of tasks due to its extensive capabilities.
+
+MA3V units are meant to operate in swarms, with at least three units collaborating to execute their missions. These machines employ enhanced compound vision and active sonar for obstacle avoidance and underwater navigation and communicate over secure channels.
+
+As an underwater drone, the MA3V makes use of ingenious natural adaptations for effective movement in aquatic conditions. By contracting its wings and propellers and adopting a vertical position, it can descend to depths five times its size due to its hydrodynamic design. It then use flagella-like propellers and sonar technology to move and map its surroundings, while its compound camera eyesight enables it to successfully orient itself and navigate. To improve its hydrodynamic qualities, the MA3V's surface is nano-etched with a hydrophobic pattern that mimics the structure of lotus leaves.
+
+The MA3V is coated with a mild neurotoxic comparable to that secreted by hooded pituhui birds to prevent unauthorized handling. This poison numbs an attacker's senses and induces a burning sensation that can persist for hours, rendering any unauthorized use of the device dangerous.
+
+The MA3V is constructed utilizing 3D printing techniques, with the topology optimized to maximize its strength and resiliency while decreasing material prices, production time, and weight. The MA3V is an unique and efficient solution for a variety of underwater and airborne operations.
+
+![ ](C:\Users\Loup\Documents\GitHub\bionic-MAV-MD-report\MAV-Bionics\MAAAV.png)
 
 
 1. To make transitoining from air to water as easy as possible, two different traits inspired by plunging birds will be adopted. On the one hand, attention will be paid to a slender hydrodinamic design, which helps to break into the water at high speed, and on the other hand, the wings and propellers will be collapsible to further optimise the hydrodynamics.
@@ -255,7 +269,7 @@ After the phase of discovery, we were able to move on to the next step, which in
 6. To create a hydrophobic effect, the surface of the fabric is coated with a water-repellent coating, which also increases bacterial resistance.
 7. The drone's frame is modeled like marine organisms like Sponges and Diatomea. Topological optimization, a novel technique, guarantees a lightweight but sturdy construction with insulation capabilities that shield delicate gear from impacts.
 8. Similar to the Anacondas in the Amazonian Basin or certain microorganisms with their flagellum, while underwater the drone should be propelled by its tail.
-  Thus it can push itself and travel in 3D underwater space when agitated.
+    Thus it can push itself and travel in 3D underwater space when agitated.
 9. To control the buoyancy, a bladder similar to the fish should be used. This bladder should be filled with gas and be controllable to stabilize the drone in the water.
 
 Of course, many exciting technologies did not qualify for the final prototype. 
@@ -270,9 +284,7 @@ In the discussion, the possibility of moving forward under water for short dista
 //TODO: Kapitel beschreibung fertig machen
 //TODO: insert image icons per life principle
 
-
-
-In this chapter, the selected functions are evaluated on the basis of the life's principle, which we set out to achieve in chapter XY. 
+The Evaluation chapter aims to objectively assess and compare the  performance of selected functions based on the principles of Life. This  thorough analysis will provide valuable insights into the efficiency and effectiveness of each function, and help inform future decision-making  and design choices. The results of this evaluation will be used to  determine the best course of action for optimizing and improving the  overall system.
 
 ### Evolve to Survive
 **Continually incorporate and embody information to ensure enduring performance.** //TODO: quoting style
