@@ -331,10 +331,22 @@ Innovation through biomimicry, applied lifes principles, and all other methods i
 
 ## Discussion
 The problem was tackled in an entirely different way and viewed from a completely different aspect thanks to a cradle to cradle and biomimicry approach. This resulted in the functionality being rethought from the ground up, and not only the question of *what?* but also the question of *why?* was continuously in focus.
-Starting with scoping, it was unclear how the ultimate product might look, and everything that might be significant was simply questioned and documented. During the process, for example, it became clear that the transition from the surface into the water is crucial. Many intriguing and novel techniques came during the discovering phase, which could (but did not always) be used, but even if they were not used, they remained in the back of the mind for the next project (e.g. sending data like water strides).
+Starting with scoping, it was unclear how the ultimate product might look, and everything that might be significant was simply questioned and documented. During the scoping and context process, for example, it became clear that the transition from the surface into the water is crucial. During the discovery phase many fascinating and novel techniques were found, which could (not always) be used, but even if they were not used, they remained in the back of the mind for the next project (e.g. sending data like water strides). 
+After the more creative part, it was verified whether the collected biomimicry approaches harmonize and also fulfill all requirements regarding life's principles and cradle to cradle. This was not always easy to grasp, since a lot of experience is necessary for such an assessment, but with intensive internet research much could be confirmed.
 When it came to the prototype, a lot of preliminary work had been completed, and all that remained was to confirm compatibility and technological requirements. This was not always easy, but with proper planning, a lot of time could be saved.
 
 ## Conclusion
+In this report, an ecological and nature-inspired approach was chosen with the resulting goal of obtaining a MAV capable of operating in both air and water.
+Thanks to intensive research, the concept is in a stadium that does not need many more additions before a first prototype could be created. therefore, it is proposed to further elaborate the following questions:
+* Which source of energy does it need?
+* What are the data storage options?
+* How might a transport function be realized?
+* Where could an MAV's enlarged applicability areas be?
+
+
+More detailed descriptions were in chapter xy
+
+After a 3D model has been created and the most important questions have been answered, the prototype will be realized and tested for functionality, resilience and efficiency in cooperation with the swiss army. Improvements and lessons learned can then be incorporated into the next iteration of prototyping. 
 
 ## References
 
